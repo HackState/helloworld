@@ -1,0 +1,5 @@
+import hipl.lang.std;
+
+func<<string>, void> main(arg) {
+  std.println("Hello World!");
+}
